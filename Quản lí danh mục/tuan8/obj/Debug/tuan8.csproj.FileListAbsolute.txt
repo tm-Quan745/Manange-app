@@ -1,0 +1,10 @@
+D:\window laptrinh\tuan8\tuan8\bin\Debug\tuan8.exe.config
+D:\window laptrinh\tuan8\tuan8\bin\Debug\tuan8.exe
+D:\window laptrinh\tuan8\tuan8\bin\Debug\tuan8.pdb
+D:\window laptrinh\tuan8\tuan8\obj\Debug\tuan8.csproj.AssemblyReference.cache
+D:\window laptrinh\tuan8\tuan8\obj\Debug\tuan8.Form1.resources
+D:\window laptrinh\tuan8\tuan8\obj\Debug\tuan8.Properties.Resources.resources
+D:\window laptrinh\tuan8\tuan8\obj\Debug\tuan8.csproj.GenerateResource.cache
+D:\window laptrinh\tuan8\tuan8\obj\Debug\tuan8.csproj.CoreCompileInputs.cache
+D:\window laptrinh\tuan8\tuan8\obj\Debug\tuan8.exe
+D:\window laptrinh\tuan8\tuan8\obj\Debug\tuan8.pdb

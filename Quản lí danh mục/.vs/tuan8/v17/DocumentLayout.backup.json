@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\window laptrinh\\tuan8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B26125F4-0236-4E5A-8887-E4FAF90DFC48}|tuan8\\tuan8.csproj|D:\\window laptrinh\\tuan8\\tuan8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B26125F4-0236-4E5A-8887-E4FAF90DFC48}|tuan8\\tuan8.csproj|solutionrelative:tuan8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26125F4-0236-4E5A-8887-E4FAF90DFC48}|tuan8\\tuan8.csproj|d:\\window laptrinh\\tuan8\\tuan8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26125F4-0236-4E5A-8887-E4FAF90DFC48}|tuan8\\tuan8.csproj|solutionrelative:tuan8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26125F4-0236-4E5A-8887-E4FAF90DFC48}|tuan8\\tuan8.csproj|D:\\window laptrinh\\tuan8\\tuan8\\dataclasses1.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{B26125F4-0236-4E5A-8887-E4FAF90DFC48}|tuan8\\tuan8.csproj|solutionrelative:tuan8\\dataclasses1.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26125F4-0236-4E5A-8887-E4FAF90DFC48}|tuan8\\tuan8.csproj|D:\\window laptrinh\\tuan8\\tuan8\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26125F4-0236-4E5A-8887-E4FAF90DFC48}|tuan8\\tuan8.csproj|solutionrelative:tuan8\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 23,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\window laptrinh\\tuan8\\tuan8\\Form1.cs",
+              "RelativeDocumentMoniker": "tuan8\\Form1.cs",
+              "ToolTip": "D:\\window laptrinh\\tuan8\\tuan8\\Form1.cs",
+              "RelativeToolTip": "tuan8\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T01:14:09.464Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\window laptrinh\\tuan8\\tuan8\\Form1.cs",
+              "RelativeDocumentMoniker": "tuan8\\Form1.cs",
+              "ToolTip": "D:\\window laptrinh\\tuan8\\tuan8\\Form1.cs [Design]",
+              "RelativeToolTip": "tuan8\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T00:24:33.928Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\window laptrinh\\tuan8\\tuan8\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "tuan8\\Form1.Designer.cs",
+              "ToolTip": "D:\\window laptrinh\\tuan8\\tuan8\\Form1.Designer.cs",
+              "RelativeToolTip": "tuan8\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T02:04:04.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataClasses1.dbml",
+              "DocumentMoniker": "D:\\window laptrinh\\tuan8\\tuan8\\DataClasses1.dbml",
+              "RelativeDocumentMoniker": "tuan8\\DataClasses1.dbml",
+              "ToolTip": "D:\\window laptrinh\\tuan8\\tuan8\\DataClasses1.dbml",
+              "RelativeToolTip": "tuan8\\DataClasses1.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2025-03-21T01:31:31.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
